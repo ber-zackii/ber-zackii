@@ -5,7 +5,7 @@
 <br>🔭 I’m currently working on: Freelance projects and developing innovative solutions with AI.<br><br>👯 I’m looking to collaborate on: Web development projects and AI integrations, especially within IT groups.<br><br>🤝 I’m looking for help with: Advancing my skills in AI and exploring cutting-edge technologies.<br><br>🌱 I’m currently learning: The latest advancements in AI and all emerging tech trends.<br><br>💬 Ask me about: Web development, AI, and anything tech-related.<br><br>⚡ Fun fact: I love blending creativity with technology to solve complex problems and turn ideas into reality.<br><br>
 
 ## 📍 Portfolio:
-- [Visit My Portfolio](https://zakaria-berrani.me)
+- [Visit My Portfolio](https://zakariaberrani.site)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/zakaria-berrani](https://www.facebook.com/profile.php?id=100080275686809)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ber.zackii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariaberrani) 
